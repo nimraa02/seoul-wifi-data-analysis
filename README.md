@@ -1,5 +1,7 @@
 # Seoul Public Wi-Fi App (Using Python and Streamlit)
 
+![My Seoul Wi-Fi Chart](seoul-wifi-large-scale.png)
+
 ## What is this project?
 I made this small web app using Python and VS Code to show how public Wi-Fi is shared across the 25 different districts of Seoul, South Korea. 
 
